@@ -1,2 +1,0 @@
-# SLA
-Server Log Analysis
